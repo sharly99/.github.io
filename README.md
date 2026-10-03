@@ -26,7 +26,7 @@ http://localhost:8000
 该项目已配置 GitHub Actions，可在提交到 `main` 分支后自动部署到 GitHub Pages。
 
 ## 访问地址
-https://sharly99.github.io
+[https://sharly99.github.io](https://sharly99.github.io/.github.io)
 
 ## 说明
 该主页已根据武汉工程大学材料学院王学华教授的学术风格进行了内容设计，适合用于个人学术展示、教师介绍和科研交流。
