@@ -26,7 +26,7 @@ http://localhost:8000
 The repository is configured with GitHub Actions for automatic deployment to GitHub Pages when changes are pushed to the `main` branch.
 
 ## Public access
-https://sharly99.github.io
+[https://sharly99.github.io](https://sharly99.github.io/.github.io)
 
 ## Notes
 The page content has been aligned with the public ORCID profile of Xuehua Wang and current institutional information for Wuhan Institute of Technology, Department of Materials Science and Engineering.
