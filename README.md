@@ -1,32 +1,32 @@
-# 王学华教授个人主页
+# Xuehua Wang Academic Homepage
 
-这是一个基于静态 HTML/CSS/JS 的个人主页，适用于学术型教师、科研者和学院主页展示。
+This project is a static personal academic homepage for Xuehua Wang, based on public ORCID information and institutional affiliation data.
 
-## 项目内容
-- 个人简介
-- 学术研究方向
-- 教学与培养
-- 学术成果
-- 联系方式
+## Contents
+- Academic profile
+- Research interests
+- Selected achievements
+- Teaching and mentorship focus
+- Contact and ORCID link
 
-## 技术栈
+## Stack
 - HTML
 - CSS
 - JavaScript
 
-## 本地预览
+## Local preview
 ```bash
 cd /workspaces/.github.io
 python3 -m http.server 8000
 ```
-然后访问：
+Then open:
 http://localhost:8000
 
-## GitHub Pages 自动部署
-该项目已配置 GitHub Actions，可在提交到 `main` 分支后自动部署到 GitHub Pages。
+## GitHub Pages deployment
+The repository is configured with GitHub Actions for automatic deployment to GitHub Pages when changes are pushed to the `main` branch.
 
-## 访问地址
-[https://sharly99.github.io](https://sharly99.github.io/.github.io)
+## Public access
+https://sharly99.github.io
 
-## 说明
-该主页已根据武汉工程大学材料学院王学华教授的学术风格进行了内容设计，适合用于个人学术展示、教师介绍和科研交流。
+## Notes
+The page content has been aligned with the public ORCID profile of Xuehua Wang and current institutional information for Wuhan Institute of Technology, Department of Materials Science and Engineering.
